@@ -7,7 +7,7 @@ const ListadosPacientes = ({pacientes}) => {
       <h2 className="font-black text-2xl text-center">Listado Pacientes</h2>
       <p className="text-xl mt-5 mb-10 text-center">
         Administra tus {""}
-        <span className="text-blue-400 font-bold">Pacientes y Citas
+        <span className="text-pink-400 font-bold">Pacientes y Citas
         </span>
       </p>
 
